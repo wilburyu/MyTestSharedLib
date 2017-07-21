@@ -4,7 +4,7 @@
 
     <groupId>com.osterhoutgroup</groupId>
     <artifactId>sharedlibraryplugin</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>sharedlibraryplugin Maven Plugin</name>
