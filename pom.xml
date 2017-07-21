@@ -7,7 +7,6 @@
     <version>1.0.3-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
-
     <name>sharedlibraryplugin Maven Plugin</name>
 
     <!-- FIXME change it to the project's website -->
